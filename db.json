@@ -290,6 +290,40 @@
     "price": 4567
   },
   {
+    "cumulativeFlight": {
+      "departureTime": "04:30",
+      "origin": "Mumbai (BOM)",
+      "arrivalTime": "09:00",
+      "destination": "Delhi (DEL)",
+      "totalFare": 4567,
+      "arrivalTimeStamp": 1654236789000,
+      "departureTimeStamp": 1654234189000,
+      "dayChange": false
+    },
+    "flights": [
+      {
+        "arrivalTime": "05:30",
+        "date": "2024/04/23",
+        "departureTime": "04:30",
+        "destination": "Pune (PNQ)",
+        "flightNo": "6E-132",
+        "name": "IndiGo",
+        "origin": "Mumbai (BOM)",
+        "price": 2067
+      },
+      {
+        "arrivalTime": "09:00",
+        "date": "2024/04/23",
+        "departureTime": "07:00",
+        "destination": "Delhi (DEL)",
+        "flightNo": "AI-678",
+        "name": "Air India",
+        "origin": "Pune (PNQ)",
+        "price": 3000
+      }
+    ]
+  },
+  {
     "arrivalTime": "22:30",
     "date": "2024/03/21",
     "departureTime": "20:00",
