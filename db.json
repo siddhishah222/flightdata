@@ -1,8 +1,8 @@
 [
   {
-    "arrivalTime": "6:00",
+    "arrivalTime": "06:00",
     "date": "2024/05/01",
-    "departureTime": "4:00",
+    "departureTime": "04:00",
     "destination": "Bengaluru (BLR)",
     "flightNo": "6E-101",
     "name": "IndiGo",
@@ -12,7 +12,7 @@
   {
     "arrivalTime": "10:20",
     "date": "2024/06/01",
-    "departureTime": "8:10",
+    "departureTime": "08:10",
     "destination": "Delhi (DEL)",
     "flightNo": "6E-102",
     "name": "IndiGo",
@@ -20,9 +20,9 @@
     "price": 5150
   },
   {
-    "arrivalTime": "5:00",
+    "arrivalTime": "05:00",
     "date": "2024/04/01",
-    "departureTime": "2:50",
+    "departureTime": "02:50",
     "destination": "Delhi (DEL)",
     "flightNo": "6E-103",
     "name": "IndiGo",
@@ -30,9 +30,9 @@
     "price": 2737
   },
   {
-    "arrivalTime": "5:40",
+    "arrivalTime": "05:40",
     "date": "2024/05/01",
-    "departureTime": "3:30",
+    "departureTime": "03:30",
     "destination": "Bengaluru (BLR)",
     "flightNo": "AI-104",
     "name": "Air India",
@@ -40,9 +40,9 @@
     "price": 3481
   },
   {
-    "arrivalTime": "7:35",
+    "arrivalTime": "07:35",
     "date": "2024/03/01",
-    "departureTime": "6:15",
+    "departureTime": "06:15",
     "destination": "Pune (PNQ)",
     "flightNo": "SJ-105",
     "name": "SpiceJet",
@@ -62,7 +62,7 @@
   {
     "arrivalTime": "10:00",
     "date": "2024/06/01",
-    "departureTime": "8:00",
+    "departureTime": "08:00",
     "destination": "Bengaluru (BLR)",
     "flightNo": "SJ-107",
     "name": "SpiceJet",
@@ -72,7 +72,7 @@
   {
     "arrivalTime": "10:30",
     "date": "2024/04/01",
-    "departureTime": "8:00",
+    "departureTime": "08:00",
     "destination": "Delhi (DEL)",
     "flightNo": "QR-108",
     "name": "Qatar Airways",
@@ -92,7 +92,7 @@
   {
     "arrivalTime": "11:30",
     "date": "2024/06/01",
-    "departureTime": "9:00",
+    "departureTime": "09:00",
     "destination": "Delhi (DEL)",
     "flightNo": "6E-110",
     "name": "IndiGo",
@@ -170,9 +170,9 @@
     "price": 5117
   },
   {
-    "arrivalTime": "6:00",
+    "arrivalTime": "06:00",
     "date": "2024/04/22",
-    "departureTime": "5:00",
+    "departureTime": "05:00",
     "destination": "Mumbai (BOM)",
     "flightNo": "6E-119",
     "name": "IndiGo",
@@ -180,19 +180,19 @@
     "price": 3525
   },
   {
-    "arrivalTime": "9:50",
-    "date": "2024/08/02",
-    "departureTime": "7:20",
-    "destination": "Delhi (DEL)",
+    "arrivalTime": "09:50",
+    "date": "2024/04/22",
+    "departureTime": "07:20",
+    "destination": "Mumbai (BOM)",
     "flightNo": "AI-120",
     "name": "Air India",
-    "origin": "Mumbai (BOM)",
+    "origin":"Delhi (DEL)",
     "price": 5635
   },
   {
-    "arrivalTime": "6:58",
+    "arrivalTime": "06:58",
     "date": "2024/05/12",
-    "departureTime": "6:10",
+    "departureTime": "06:10",
     "destination": "Pune (PNQ)",
     "flightNo": "AI-121",
     "name": "Air India",
@@ -202,7 +202,7 @@
   {
     "arrivalTime": "10:20",
     "date": "2024/07/04",
-    "departureTime": "8:10",
+    "departureTime": "08:10",
     "destination": "Mumbai (BOM)",
     "flightNo": "AI-131",
     "name": "Air India",
@@ -210,9 +210,9 @@
     "price": 4681
   },
   {
-    "arrivalTime": "9:15",
+    "arrivalTime": "09:15",
     "date": "2024/05/22",
-    "departureTime": "8:15",
+    "departureTime": "08:15",
     "destination": "Bengaluru (BLR)",
     "flightNo": "SJ-115",
     "name": "SpiceJet",
@@ -232,7 +232,7 @@
   {
     "arrivalTime": "10:00",
     "date": "2024/06/09",
-    "departureTime": "8:00",
+    "departureTime": "08:00",
     "destination": "Bengaluru (BLR)",
     "flightNo": "SJ-117",
     "name": "Singapore Airlines",
@@ -242,7 +242,7 @@
   {
     "arrivalTime": "10:30",
     "date": "2024/05/13",
-    "departureTime": "8:00",
+    "departureTime": "08:00",
     "destination": "Pune (PNQ)",
     "flightNo": "QR-118",
     "name": "Qatar Airways",
@@ -262,7 +262,7 @@
   {
     "arrivalTime": "11:30",
     "date": "2024/04/20",
-    "departureTime": "9:00",
+    "departureTime": "09:00",
     "destination": "Pune (PNQ)",
     "flightNo": "6E-130",
     "name": "IndiGo",
