@@ -1,1 +1,342 @@
-
+[
+  {
+    "arrivalTime": "6:00",
+    "date": "2024/05/01",
+    "departureTime": "4:00",
+    "destination": "Bengaluru (BLR)",
+    "flightNo": "6E-101",
+    "name": "IndiGo",
+    "origin": "Delhi (DEL)",
+    "price": 5405
+  },
+  {
+    "arrivalTime": "10:20",
+    "date": "2024/06/01",
+    "departureTime": "8:10",
+    "destination": "Delhi (DEL)",
+    "flightNo": "6E-102",
+    "name": "IndiGo",
+    "origin": "Bengaluru (BLR)",
+    "price": 5150
+  },
+  {
+    "arrivalTime": "5:00",
+    "date": "2024/04/01",
+    "departureTime": "2:50",
+    "destination": "Delhi (DEL)",
+    "flightNo": "6E-103",
+    "name": "IndiGo",
+    "origin": "Bengaluru (BLR)",
+    "price": 2737
+  },
+  {
+    "arrivalTime": "5:40",
+    "date": "2024/05/01",
+    "departureTime": "3:30",
+    "destination": "Bengaluru (BLR)",
+    "flightNo": "AI-104",
+    "name": "Air India",
+    "origin": "Pune (PNQ)",
+    "price": 3481
+  },
+  {
+    "arrivalTime": "7:35",
+    "date": "2024/03/01",
+    "departureTime": "6:15",
+    "destination": "Pune (PNQ)",
+    "flightNo": "SJ-105",
+    "name": "SpiceJet",
+    "origin": "Delhi (DEL)",
+    "price": 2449
+  },
+  {
+    "arrivalTime": "16:00",
+    "date": "2024/03/01",
+    "departureTime": "14:50",
+    "destination": "Pune (PNQ)",
+    "flightNo": "SJ-106",
+    "name": "Singapore Airlines",
+    "origin": "Bengaluru (BLR)",
+    "price": 6345
+  },
+  {
+    "arrivalTime": "10:00",
+    "date": "2024/06/01",
+    "departureTime": "8:00",
+    "destination": "Bengaluru (BLR)",
+    "flightNo": "SJ-107",
+    "name": "SpiceJet",
+    "origin": "Pune (PNQ)",
+    "price": 5000
+  },
+  {
+    "arrivalTime": "10:30",
+    "date": "2024/04/01",
+    "departureTime": "8:00",
+    "destination": "Delhi (DEL)",
+    "flightNo": "QR-108",
+    "name": "Qatar Airways",
+    "origin": "Mumbai (BOM)",
+    "price": 4004
+  },
+  {
+    "arrivalTime": "15:30",
+    "date": "2024/05/01",
+    "departureTime": "12:00",
+    "destination": "Delhi (DEL)",
+    "flightNo": "TW-109",
+    "name": "Air Taiwan",
+    "origin":  "Mumbai (BOM)",
+    "price": 3495
+  },
+  {
+    "arrivalTime": "11:30",
+    "date": "2024/06/01",
+    "departureTime": "9:00",
+    "destination": "Delhi (DEL)",
+    "flightNo": "6E-110",
+    "name": "IndiGo",
+    "origin": "Mumbai (BOM)",
+    "price": 4137
+  },
+  {
+    "arrivalTime": "16:30",
+    "date": "2024/05/01",
+    "departureTime": "14:00",
+    "destination": "Bengaluru (BLR)",
+    "flightNo": "AI-111",
+    "name": "Air India",
+    "origin": "Delhi (DEL)",
+    "price": 5217
+  },
+  {
+    "arrivalTime": "16:30",
+    "date": "2024/03/01",
+    "departureTime": "14:30",
+    "destination": "Mumbai (BOM)",
+    "flightNo": "AI-112",
+    "name": "Air India",
+    "origin": "Delhi (DEL)",
+    "price": 4170
+  },
+  {
+    "arrivalTime": "22:30",
+    "date": "2024/04/01",
+    "departureTime": "20:00",
+    "destination": "Pune (PNQ)",
+    "flightNo": "6E-113",
+    "name": "IndiGo",
+    "origin": "Bengaluru (BLR)",
+    "price": 5132
+  },
+  {
+    "arrivalTime": "22:45",
+    "date": "2024/05/01",
+    "departureTime": "21:30",
+    "destination": "Mumbai (BOM)",
+    "flightNo": "AI-114",
+    "name": "Air India",
+    "origin": "Pune (PNQ)",
+    "price": 2001
+  },
+  {
+    "arrivalTime": "22:10",
+    "date": "2024/06/01",
+    "departureTime": "20:00",
+    "destination": "Bengaluru (BLR)",
+    "flightNo": "6E-115",
+    "name": "IndiGo",
+    "origin": "Delhi (DEL)",
+    "price": 5233
+  },
+  {
+    "arrivalTime": "19:30",
+    "date": "2024/05/01",
+    "departureTime": "17:20",
+    "destination": "Bengaluru (BLR)",
+    "flightNo": "AI-116",
+    "name": "Air India",
+    "origin": "Pune (PNQ)",
+    "price": 6348
+  },
+  {
+    "arrivalTime": "14:15",
+    "date": "2024/03/11",
+    "departureTime": "13:15",
+    "destination": "Pune (PNQ)",
+    "flightNo": "AI-117",
+    "name": "Air India",
+    "origin": "Mumbai (BOM)",
+    "price": 5117
+  },
+  {
+    "arrivalTime": "6:00",
+    "date": "2024/04/22",
+    "departureTime": "5:00",
+    "destination": "Mumbai (BOM)",
+    "flightNo": "6E-119",
+    "name": "IndiGo",
+    "origin": "Delhi (DEL)",
+    "price": 3525
+  },
+  {
+    "arrivalTime": "9:50",
+    "date": "2024/08/02",
+    "departureTime": "7:20",
+    "destination": "Delhi (DEL)",
+    "flightNo": "AI-120",
+    "name": "Air India",
+    "origin": "Mumbai (BOM)",
+    "price": 5635
+  },
+  {
+    "arrivalTime": "6:58",
+    "date": "2024/05/12",
+    "departureTime": "6:10",
+    "destination": "Pune (PNQ)",
+    "flightNo": "AI-121",
+    "name": "Air India",
+    "origin": "Delhi (DEL)",
+    "price": 2537
+  },
+  {
+    "arrivalTime": "10:20",
+    "date": "2024/07/04",
+    "departureTime": "8:10",
+    "destination": "Mumbai (BOM)",
+    "flightNo": "AI-131",
+    "name": "Air India",
+    "origin": "Delhi (DEL)",
+    "price": 4681
+  },
+  {
+    "arrivalTime": "9:15",
+    "date": "2024/05/22",
+    "departureTime": "8:15",
+    "destination": "Bengaluru (BLR)",
+    "flightNo": "SJ-115",
+    "name": "SpiceJet",
+    "origin": "Mumbai (BOM)",
+    "price": 3549
+  },
+  {
+    "arrivalTime": "13:00",
+    "date": "2024/04/08",
+    "departureTime": "11:00",
+    "destination": "Pune (PNQ)",
+    "flightNo": "SJ-116",
+    "name": "SpiceJet",
+    "origin": "Bengaluru (BLR)",
+    "price": 5445
+  },
+  {
+    "arrivalTime": "10:00",
+    "date": "2024/06/09",
+    "departureTime": "8:00",
+    "destination": "Bengaluru (BLR)",
+    "flightNo": "SJ-117",
+    "name": "Singapore Airlines",
+    "origin": "Delhi (DEL)",
+    "price": 6500
+  },
+  {
+    "arrivalTime": "10:30",
+    "date": "2024/05/13",
+    "departureTime": "8:00",
+    "destination": "Pune (PNQ)",
+    "flightNo": "QR-118",
+    "name": "Qatar Airways",
+    "origin": "Delhi (DEL)",
+    "price": 5504
+  },
+  {
+    "arrivalTime": "15:30",
+    "date": "2024/03/10",
+    "departureTime": "12:00",
+    "destination": "Mumbai (BOM)",
+    "flightNo": "TW-119",
+    "name": "Air Taiwan",
+    "origin": "Pune (PNQ)",
+    "price": 5495
+  },
+  {
+    "arrivalTime": "11:30",
+    "date": "2024/04/20",
+    "departureTime": "9:00",
+    "destination": "Pune (PNQ)",
+    "flightNo": "6E-130",
+    "name": "IndiGo",
+    "origin": "Delhi (DEL)",
+    "price": 4137
+  },
+  {
+    "arrivalTime": "16:30",
+    "date": "2024/06/30",
+    "departureTime": "14:00",
+    "destination": "Delhi (DEL)",
+    "flightNo": "AI-131",
+    "name": "Air India",
+    "origin": "Bengaluru (BLR)",
+    "price": 5432
+  },
+  {
+    "arrivalTime": "16:30",
+    "date": "2024/04/23",
+    "departureTime": "14:30",
+    "destination": "Pune (PNQ)",
+    "flightNo": "6E-132",
+    "name": "IndiGo",
+    "origin": "Mumbai (BOM)",
+    "price": 4567
+  },
+  {
+    "arrivalTime": "22:30",
+    "date": "2024/03/21",
+    "departureTime": "20:00",
+    "destination": "Bengaluru (BLR)",
+    "flightNo": "AI-133",
+    "name": "Air India",
+    "origin": "Mumbai (BOM)",
+    "price": 5132
+  },
+  {
+    "arrivalTime": "22:45",
+    "date": "2024/05/14",
+    "departureTime": "21:30",
+    "destination": "Pune (PNQ)",
+    "flightNo": "AI-134",
+    "name": "Air India",
+    "origin": "Bengaluru (BLR)",
+    "price": 2001
+  },
+  {
+    "arrivalTime": "22:10",
+    "date": "2024/04/15",
+    "departureTime": "20:00",
+    "destination": "Delhi (DEL)",
+    "flightNo": "6E-135",
+    "name": "IndiGo",
+    "origin": "Bengaluru (BLR)",
+    "price": 6233
+  },
+  {
+    "arrivalTime": "19:30",
+    "date": "2024/03/17",
+    "departureTime": "17:20",
+    "destination": "Pune (PNQ)",
+    "flightNo": "AI-136",
+    "name": "Air India",
+    "origin": "Bengaluru (BLR)",
+    "price": 2268
+  },
+  {
+    "arrivalTime": "14:15",
+    "date": "2024/03/23",
+    "departureTime": "13:15",
+    "destination": "Mumbai (BOM)",
+    "flightNo": "6E-137",
+    "name": "IndiGo",
+    "origin": "Pune (PNQ)",
+    "price": 3187
+  }
+]
